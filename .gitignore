@@ -1,0 +1,29 @@
+# Node Modules
+node_modules/
+
+# Build Output
+dist/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# npm
+package-lock.json
+
+# Optional
+*.tsbuildinfo
